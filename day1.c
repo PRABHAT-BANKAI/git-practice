@@ -8,6 +8,8 @@ int main (){
   b=20;
 
   printf("sum is %d",a+b);
+  printf("sum is %d",a+b);
+
 
   return 0;
 }
